@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tools"
+        android:icon="@drawable/tools"
+        android:title="@string/title_tools" />
+
+    <item
+        android:id="@+id/navigation_data"
+        android:icon="@drawable/data"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_activities"
+        android:icon="@drawable/mindful"
+        android:title="@string/title_activities" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/settings"
+        android:title="@string/title_settings" />
+
+</menu>
